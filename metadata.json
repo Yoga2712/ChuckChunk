@@ -1,0 +1,6 @@
+{
+  "name": "ChuckChunk — RAG Chunking Explorer",
+  "description": "An interactive educational application for mastering 8 essential RAG chunking strategies with live visual text highlights and algorithmic trace breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
